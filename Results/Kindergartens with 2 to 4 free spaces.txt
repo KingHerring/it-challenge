@@ -1,0 +1,64 @@
+129 Zylutė 9 "Nuo 6 iki 7 metų" 1 Lietuvių 1 4
+129 Zylutė 18 "Nuo 2 iki 4 metų" 4 Lenkų 24 3
+159 Žirmūnėliai 13 "Nuo 4 iki 6 metų" 1 Lietuvių 2 2
+135 Žilvitis 11 "Nuo 5 iki 7 metų" 1 Lietuvių 42 3
+151 Žiburėlis 8 "Nuo 5 iki 6 metų" 1 Lietuvių 39 3
+131 Žemyna 7 "Nuo 4 iki 5 metų" 1 Lietuvių 69 3
+127 Voveraitė 3 "Nuo 1,5 iki 3 metų" 1 Lietuvių 77 3
+127 Voveraitė 6 "Nuo 3 iki 4 metų" 1 Lietuvių 4 4
+181 Volungė 3 "Nuo 1,5 iki 3 metų" 1 Lietuvių 67 3
+181 Volungė 13 "Nuo 4 iki 6 metų" 1 Lietuvių 1 2
+181 Volungė 18 "Nuo 2 iki 4 metų" 1 Lietuvių 31 3
+150 Vilkpėdės 7 "Nuo 4 iki 5 metų" 1 Lietuvių 23 3
+119 Vaidilutė 7 "Nuo 4 iki 5 metų" 1 Lietuvių 61 3
+116 Šypsena 11 "Nuo 5 iki 7 metų" 4 Lenkų 21 2
+146 Svaja 6 "Nuo 3 iki 4 metų" 2 Rusų 39 2
+157 Spygliukas 6 "Nuo 3 iki 4 metų" 1 Lietuvių 4 2
+157 Spygliukas 7 "Nuo 4 iki 5 metų" 1 Lietuvių 18 2
+109 Skroblinukas 8 "Nuo 5 iki 6 metų" 1 Lietuvių 39 3
+164 Saulėgrąža 11 "Nuo 5 iki 7 metų" 1 Lietuvių 64 2
+162 Šaltinėlis 11 "Nuo 5 iki 7 metų" 4 Lenkų 55 3
+105 Sakalėlis 4 "Nuo 3 iki 7 metų" 1 Lietuvių 46 3
+105 Sakalėlis 10 "Nuo 3 iki 5 metų" 1 Lietuvių 0 3
+101 Rytas 8 "Nuo 5 iki 6 metų" 1 Lietuvių 45 2
+99 Rugelis 11 "Nuo 5 iki 7 metų" 1 Lietuvių 20 4
+98 Rasa 8 "Nuo 5 iki 6 metų" 1 Lietuvių 22 4
+102 Ramunėlė 10 "Nuo 3 iki 5 metų" 2 Rusų 21 3
+93 Pumpurėlis 4 "Nuo 3 iki 7 metų" 1 Lietuvių 20 3
+93 Pumpurėlis 7 "Nuo 4 iki 5 metų" 1 Lietuvių 43 2
+82 Pakalnutė 9 "Nuo 6 iki 7 metų" 1 Lietuvių 2 4
+75 Molinukas 9 "Nuo 6 iki 7 metų" 1 Lietuvių 1 2
+74 Medynėlis 9 "Nuo 6 iki 7 metų" 1 Lietuvių 21 3
+69 Liepsnelė 7 "Nuo 4 iki 5 metų" 2 Rusų 2 4
+69 Liepsnelė 8 "Nuo 5 iki 6 metų" 2 Rusų 20 2
+67 Lašelis 1 "Iki 1,5 metų" 2 Rusų 23 4
+67 Lašelis 3 "Nuo 1,5 iki 3 metų" 2 Rusų 24 3
+66 Lakštingala 16 "Nuo 4 iki 7 metų" 1 Lietuvių 5 2
+64 Kurpaitė 11 "Nuo 5 iki 7 metų" 2 Rusų 17 3
+62 Kodėlčiukas 6 "Nuo 3 iki 4 metų" 1 Lietuvių 45 3
+60 Kaštonas 11 "Nuo 5 iki 7 metų" 4 Lenkų 25 3
+59 Karusėlė 6 "Nuo 3 iki 4 metų" 1 Lietuvių 30 2
+59 Karusėlė 6 "Nuo 3 iki 4 metų" 2 Rusų 31 3
+59 Karusėlė 14 "Nuo 3 iki 6 metų" 4 Lenkų 26 3
+152 Justinukas 3 "Nuo 1,5 iki 3 metų" 1 Lietuvių 107 2
+57 Jovarėlis 4 "Nuo 3 iki 7 metų" 1 Lietuvių 14 3
+51 Gelvonėlis 16 "Nuo 4 iki 7 metų" 1 Lietuvių 6 2
+51 Gelvonėlis 4 "Nuo 3 iki 7 metų" 4 Lenkų 19 2
+44 Drevinukas 6 "Nuo 3 iki 4 metų" 1 Lietuvių 11 3
+41 Daigelis 10 "Nuo 3 iki 5 metų" 2 Rusų 38 4
+34 Beržynėlis 13 "Nuo 4 iki 6 metų" 1 Lietuvių 3 3
+154 Bangelė 6 "Nuo 3 iki 4 metų" 4 Lenkų 24 4
+32 Atžalėlės 9 "Nuo 6 iki 7 metų" 1 Lietuvių 3 2
+32 Atžalėlės 20 "Nuo 2 iki 6 metų" 1 Lietuvių 17 2
+311 "Vilniaus Naujininkų mokykla" 11 "Nuo 5 iki 7 metų" 1 Lietuvių 11 4
+167 "Vilniaus „Vilties“ specialioji mokykla-daugiafunkcinis centras" 4 "Nuo 3 iki 7 metų" 1 Lietuvių 9 3
+92 "Prie pasakų parko" 11 "Nuo 5 iki 7 metų" 2 Rusų 11 4
+92 "Prie pasakų parko" 3 "Nuo 1,5 iki 3 metų" 4 Lenkų 26 2
+76 "Naminukas (Smėlio g. 13)" 7 "Nuo 4 iki 5 metų" 1 Lietuvių 26 3
+76 "Naminukas (Smėlio g. 13)" 18 "Nuo 2 iki 4 metų" 1 Lietuvių 34 4
+71 "Lokiuko giraitė" 9 "Nuo 6 iki 7 metų" 1 Lietuvių 1 4
+188 "Lazdynų mokykla" 20 "Nuo 2 iki 6 metų" 1 Lietuvių 18 3
+669 "Gervelė (Stadiono g. 5)" 3 "Nuo 1,5 iki 3 metų" 2 Rusų 21 3
+669 "Gervelė (Stadiono g. 5)" 10 "Nuo 3 iki 5 metų" 2 Rusų 25 2
+669 "Gervelė (Stadiono g. 5)" 11 "Nuo 5 iki 7 metų" 2 Rusų 24 3
+50 "Geniukų kalvė" 8 "Nuo 5 iki 6 metų" 1 Lietuvių 48 3
