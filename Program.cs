@@ -48,7 +48,7 @@ namespace ba_uzd3
 
         static void Main(string[] args)
         {
-            string pathToCSV = "Darzeliu galimu priimti ir lankantys vaikai2018.csv"; // CSV file in debug directory
+            string pathToCSV = "Darzeliu galimu priimti ir lankantys vaikai2018.csv"; // CSV file location
             Row[] rows = ReadFromCSVToRowArray(pathToCSV);
 
             // get min & max child counts
